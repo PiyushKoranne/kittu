@@ -170,7 +170,7 @@ const App = (): ReactElement => {
           <div className="relative rounded-2xl overflow-hidden shadow-[0_0_50px_rgba(255,77,109,0.5)] border-4 border-love/30">
              {/*  - Contextual placeholder logic */}
             <img 
-              src={HER_IMAGE_URL} 
+              src={"/IMG_2203.jpeg"} 
               alt="Beautiful Memory" 
               className="w-[300px] h-[400px] md:w-[400px] md:h-[500px] object-cover"
             />
