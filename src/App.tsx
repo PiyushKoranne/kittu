@@ -6,7 +6,7 @@ import { Heart, Stars } from 'lucide-react';
 import confetti from 'canvas-confetti';
 
 // 1. PLACEHOLDER IMAGE - REPLACE THIS URL WITH A PHOTO OF HER OR YOU TWO
-const HER_IMAGE_URL = "/image/IMG_2203.jpeg";
+// const HER_IMAGE_URL = "/image/IMG_2203.jpeg";
 
 // Define stage types for better type safety
 type Stage = 0 | 1 | 2 | 3;
